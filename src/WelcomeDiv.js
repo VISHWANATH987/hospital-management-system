@@ -1,4 +1,5 @@
 import React from 'react';
+import axios from 'axios';
 import LocalHospitalRoundedIcon from '@mui/icons-material/LocalHospitalRounded';
 function WelcomeDiv() {
   return <div className='WelcomeDiv'>
